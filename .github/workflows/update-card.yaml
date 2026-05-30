@@ -23,7 +23,7 @@ jobs:
           pip install requests
 
       - name: Generate Card
-        run: python profile.py
+        run: python cardy/profile.py
 
       - name: Commit and Push if changed
         run: |
