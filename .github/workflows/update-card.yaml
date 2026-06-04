@@ -24,8 +24,8 @@ jobs:
 
     - name: Run Profile Card Scripts
       run: |
-        python generate_codeforces_card.py
-        python generate_cryptohack_card.py
+        python cardy/profile.py
+        python cryptocardy/profile.py
 
     - name: Commit and Push Changes
       run: |
