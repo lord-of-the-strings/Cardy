@@ -7,7 +7,7 @@
         </style>
         <rect width="100%" height="100%" rx="10" fill="#282c34"/>
         <text x="20" y="35" class="title">AADITY1729'S CODEFORCES STATUS</text>
-        <text x="20" y="65" class="stat">Current Rating: <tspan font-weight="bold">801</tspan></text>
+        <text x="20" y="65" class="stat">Current Rating: <tspan font-weight="bold">778</tspan></text>
         <text x="20" y="90" class="stat">Rank: <tspan class="rank">Newbie</tspan></text>
     </svg>
     
